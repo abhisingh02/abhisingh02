@@ -1,5 +1,5 @@
 # 💫About Me :
-DevOps, Machine Learning, Java
+AI & Machine Learning, Java, DevOps
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/abhishek-singh-414854238) 
